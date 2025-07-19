@@ -2,7 +2,7 @@
 A complete sales dashboard built in Power BI using the Superstore dataset. Shows trends, profitability, and top-selling products.
 # Superstore Sales Dashboard – Power BI + Excel Project
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](powerbi.png)
 
 ## 📊 Overview
 This project analyzes retail performance using the popular Superstore dataset. Data was cleaned using **Microsoft Excel**, and a full interactive dashboard was built using **Power BI**. The dashboard provides insights into sales, profit, customer segments, and product performance.
@@ -48,7 +48,7 @@ This project analyzes retail performance using the popular Superstore dataset. D
 
 > _Add this screenshot to the repo for visual impact:_
 
-![Power BI Dashboard](dashboard-screenshot.png)
+![Power BI Dashboard](powerbi.png)
 
 ---
 
